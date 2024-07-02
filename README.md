@@ -26,8 +26,6 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
   </tr>
 </table>
 
-**Ancien site vs Nouveau site :**
-
 
 
 ## Processus et Développement
@@ -78,6 +76,58 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
 </table>
 
 <p>Ces nouvelles variantes apportent une modernité et une flexibilité nécessaires pour l'utilisation du logo dans divers contextes visuels, tels que le site web, les publications sur les réseaux sociaux, et l'affichage en vitrine, tout en conservant une touche classique et épurée qui reflète l'expertise et la stabilité de l'agence.</p>
+
+## Structure du Site Web Agence Le Home
+
+- **Accueil**
+- **Villas à vendre**
+  - `/annonces-nos-villas`
+- **Appartements à vendre**
+  - `/annonces-nos-appartements`
+- **Terrains à vendre**
+  - `/annonces-nos-terrains`
+- **Programmes neufs**
+  - `/neuf`
+- **Services de location**
+  - `/location`
+- **Notre secteur**
+  - **Écully**
+    - `/appartement+ecully`
+    - `/villa+ecully`
+    - `/terrain+ecully`
+  - **Tassin**
+    - `/appartement+tassin`
+    - `/maison+tassin`
+    - `/terrain+tassin`
+  - **Saint-Didier**
+    - `/appartement+saint-didier`
+    - `/maison+saint-didier`
+    - `/terrain+saint-didier`
+  - **Craponne**
+    - `/maison+craponne`
+    - ...
+  - **Francheville**
+    - `/maison+francheville`
+    - ...
+- **Articles et services**
+  - `/nous-confier-votre-bien`
+  - `/estimez`
+  - `/vendre-avec-le-home`
+  - `/notre-secteur`
+- **À propos de l'agence**
+  - `/agence`
+- **Contactez-nous**
+  - `/contact`
+- **Vos favoris**
+  - `/favoris`
+- **Ventes immobilières**
+  - `/vente`
+- **Nos exclusivités**
+  - `/exclusivites`
+- **Informations légales**
+  - `/honoraires`
+  - `/tracfin`
+  - `/conditions`
 
 
 ### Design et Maquettage
