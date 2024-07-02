@@ -11,6 +11,22 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
 -   **Améliorer l'expérience utilisateur** : Simplification de la navigation et amélioration de l'accessibilité sur toutes les plateformes.
 -   **Optimiser les performances** : Réduction des temps de chargement et amélioration de la réactivité du site.
 
+<h2>Résultats</h2>
+
+<p>Je place le résultat en première section car c'est évidemment ce qui nous intéresse le plus : la comparaison avant/après. Le reste concernant le processus est détaillé plus bas. Le site refondu a été lancé avec succès, offrant une interface moderne, une navigation intuitive et une meilleure performance globale. Les retours des utilisateurs et des stakeholders ont été extrêmement positifs.</p>
+
+<table>
+  <tr>
+    <th>Ancien site</th>
+    <th>Nouveau site</th>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/mTu9H30.mp4" alt="GIF de l'ancien site" style="width: 100%; max-width: 400px;"></td>
+    <td><img src="https://i.imgur.com/mTu9H30.mp4" alt="GIF du nouveau site" style="width: 100%; max-width: 400px;"></td>
+  </tr>
+</table>
+
+
 ## Processus et Développement
 
 <h3>Analyse initiale</h3>
@@ -59,11 +75,6 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
 </table>
 
 <p>Ces nouvelles variantes apportent une modernité et une flexibilité nécessaires pour l'utilisation du logo dans divers contextes visuels, tels que le site web, les publications sur les réseaux sociaux, et l'affichage en vitrine, tout en conservant une touche classique et épurée qui reflète l'expertise et la stabilité de l'agence.</p>
-
-
-
-
-
 
 
 ### Design et Maquettage
