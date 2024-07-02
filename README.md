@@ -21,20 +21,13 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
     <th>Nouveau site</th>
   </tr>
   <tr>
-    <td>
-      <video width="400" controls>
-        <source src="https://i.imgur.com/nA4cesh.mp4" type="video/mp4">
-        Votre navigateur ne prend pas en charge la vidéo HTML5.
-      </video>
-    </td>
-    <td>
-      <video width="400" controls>
-        <source src="https://i.imgur.com/kheB6ow.mp4" type="video/mp4">
-        Votre navigateur ne prend pas en charge la vidéo HTML5.
-      </video>
-    </td>
+    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/f623482f-8da5-4615-8d8c-170726230794" alt="Ancien site" style="width: 450px;"></td>
+    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/f095b2be-9e25-4b7b-bd76-9902c3989112" alt="Nouveau site" style="width: 450px;"></td>
   </tr>
 </table>
+
+**Ancien site vs Nouveau site :**
+
 
 
 ## Processus et Développement
