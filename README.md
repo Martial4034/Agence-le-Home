@@ -21,8 +21,18 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
     <th>Nouveau site</th>
   </tr>
   <tr>
-    <td><img src="https://i.imgur.com/nA4cesh.mp4" alt="GIF de l'ancien site" style="width: 100%; max-width: 400px;"></td>
-    <td><img src="https://i.imgur.com/kheB6ow.mp4" alt="GIF du nouveau site" style="width: 100%; max-width: 400px;"></td>
+    <td>
+      <video width="400" controls>
+        <source src="https://i.imgur.com/nA4cesh.mp4" type="video/mp4">
+        Votre navigateur ne prend pas en charge la vidéo HTML5.
+      </video>
+    </td>
+    <td>
+      <video width="400" controls>
+        <source src="https://i.imgur.com/kheB6ow.mp4" type="video/mp4">
+        Votre navigateur ne prend pas en charge la vidéo HTML5.
+      </video>
+    </td>
   </tr>
 </table>
 
