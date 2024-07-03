@@ -1,6 +1,6 @@
 # Projet de Refonte du Site Web de l'Agence Immobilière Le Home
 
-[Link for the English version of the ReadME]([https://](https://github.com/Martial4034/Agence-le-Home/blob/main/English_README.md))
+[Link for the English version of the ReadME](https://github.com/Martial4034/Agence-le-Home/blob/main/English_README.md)
 
 ## Introduction
 
