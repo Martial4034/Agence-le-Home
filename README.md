@@ -1,5 +1,7 @@
 # Projet de Refonte du Site Web de l'Agence Immobilière Le Home
 
+![Main_new_image_website](https://i.imgur.com/55gkvIn.png)
+
 [Link for the English version of the ReadME](https://github.com/Martial4034/Agence-le-Home/blob/main/English_README.md)
 
 ## Introduction
