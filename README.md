@@ -15,6 +15,8 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
 
 <p>Je place le résultat en première section car c'est évidemment ce qui nous intéresse le plus : la comparaison avant/après. Le reste concernant le processus est détaillé plus bas. Le site refondu a été lancé avec succès, offrant une interface moderne, une navigation intuitive et une meilleure performance globale. Les retours des utilisateurs et des stakeholders ont été extrêmement positifs.</p>
 
+## Comparaison de Site Web
+
 <table>
   <tr>
     <th>Ancien site</th>
@@ -23,6 +25,10 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
   <tr>
     <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/f623482f-8da5-4615-8d8c-170726230794" alt="Ancien site" style="width: 450px;"></td>
     <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/f095b2be-9e25-4b7b-bd76-9902c3989112" alt="Nouveau site" style="width: 450px;"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/7e0be7c0-c1a1-4a43-9bde-faf8ade176fa" alt="Ancien site 2" style="width: 450px;"></td>
+    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/9379a3bf-b48a-4279-8ce5-9ddb795d48b4" alt="Nouveau site 2" style="width: 450px;"></td>
   </tr>
 </table>
 
