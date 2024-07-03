@@ -27,12 +27,14 @@ Ce projet illustre mes compétences en gestion de projet web, design UX/UI, et o
     <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/f095b2be-9e25-4b7b-bd76-9902c3989112" alt="Nouveau site" style="width: 450px;"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/7e0be7c0-c1a1-4a43-9bde-faf8ade176fa" alt="Ancien site 2" style="width: 450px;"></td>
-    <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/9379a3bf-b48a-4279-8ce5-9ddb795d48b4" alt="Nouveau site 2" style="width: 450px;"></td>
+   <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/9379a3bf-b48a-4279-8ce5-9ddb795d48b4" alt="Nouveau site 2" style="width: 450px;"></td>
+      <td><img src="https://github.com/Martial4034/Agence-le-Home/assets/57600941/7e0be7c0-c1a1-4a43-9bde-faf8ade176fa" alt="Ancien site 2" style="width: 450px;"></td>
   </tr>
 </table>
 
+Pour voir le résultat final de la refonte du site web de l'Agence Le Home, cliquez sur le lien suivant :
 
+[Visitez le Nouveau Site de l'Agence Le Home](https://www.agencelehome.fr)
 
 ## Processus et Développement
 
@@ -152,15 +154,6 @@ Optimisation des images et des scripts pour des performances accrues, en utilisa
 
 Le site refondu a été lancé avec succès, offrant une interface moderne, une navigation intuitive et une meilleure performance globale. Les retours des utilisateurs et des stakeholders ont été extrêmement positifs.
 
-## Galerie d'Images
-
-### Avant la Refonte
-
-`![Image avant](url_de_l_image_avant)`
-
-### Après la Refonte
-
-`![Image après](url_de_l_image_après)`
 
 ## Conclusion
 
@@ -170,4 +163,4 @@ Cette refonte a non seulement amélioré l'esthétique et la fonctionnalité du 
 
 Pour plus d'informations sur ce projet ou d'autres collaborations, n'hésitez pas à me contacter.
 
-`[Mon email](mailto:monemail@example.com)`
+`[Mon email](mailto:m.laubier@eleve.leschartreux.fr)`
